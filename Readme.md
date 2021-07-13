@@ -45,19 +45,22 @@ are interested in C ++ and embedded.
 - [ ] [There Are No Zero-cost Abstractions](https://www.youtube.com/watch?v=rHIkrotSwcc)
 - [ ] [Оптимизации времени компиляции. Даем больше информации компилятору](https://www.youtube.com/watch?v=k26IOUaz2es)
 - [ ] [What C++ developers should know about globals (and the linker)](https://www.youtube.com/watch?v=xVT1y0xWgww)
+- [ ] [C++: препроцессор, компилятор, компоновщик](https://www.youtube.com/watch?v=Y6U9662gaa8)
 ### 2. Articles
 - [x] [Внутренняя и внешняя линковка в C++](https://habr.com/ru/company/otus/blog/432834/)
 
 ## Optimization
 ### 1. Videos:
+- [ ] [Understanding Compiler Optimization](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 - [ ] [Practical Performance Practices](https://www.youtube.com/watch?v=uzF4u9KgUWI)
 - [ ] [Want fast C++? Know your hardware!](https://www.youtube.com/watch?v=BP6NxVxDQIs)
 - [ ] [When a Microsecond Is an Eternity: High Performance Trading Systems in C++](https://www.youtube.com/watch?v=NH1Tta7purM)
 - [ ] [Speed Is Found In The Minds of People](https://www.youtube.com/watch?v=FJJTYQYB1JQ)
 - [ ] [Optimization Tips - Mo' Hustle Mo' Problems](https://www.youtube.com/watch?v=Qq_WaiwzOtI)
 - [ ] [MIT Course: Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+- [ ] [Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!](https://www.youtube.com/watch?v=nXaxk27zwlk)
+- [ ] [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs)
 ### 2. Articles
-- [ ] [empty link](adress)
 - [ ] [Software optimization resources](https://www.agner.org/optimize/)
 
 ## Allocators and memory management:
@@ -79,6 +82,7 @@ are interested in C ++ and embedded.
 - [ ] [Защищая C++](https://www.youtube.com/watch?v=BSSuxvY8tLA)
 - [ ] [Vector Processing Extensions](https://www.youtube.com/watch?v=x9Scb5Mku1g)
 - [ ] [Программа на С с линковкой функций на ASM](https://www.youtube.com/watch?v=ZXawFL26wc8)
+- [ ] [Computer Architecture, C++, and High Performance](https://www.youtube.com/watch?v=fMvO0Mcq894)
 ### 2. Articles:
 - [ ] [Путешествие по Стеку. Часть 1](https://habr.com/ru/company/smart_soft/blog/234239/)
 - [ ] [Position-independent code (PIC) в разделяемых библиотеках](https://habr.com/ru/company/badoo/blog/323904/)
@@ -162,6 +166,8 @@ are interested in C ++ and embedded.
 - [ ] [Everyday Efficiency: In-Place Construction (Back to Basics?)](https://www.youtube.com/watch?v=oTMSgI1XjF8)
 - [ ] [The C++ rvalue lifetime disaster](https://www.youtube.com/watch?v=s9vBk5CxFyY)
 - [ ] [C++17 — the biggest traps](https://www.youtube.com/watch?v=h-zy1hBqT74)
+- [ ] [Andrei Alexandrescu “Declarative Control Flow"](https://www.youtube.com/watch?v=WjTrfoiB0MQ)
+- [ ] [Garbage In, Garbage Out: Arguing about Undefined Behavior...](https://www.youtube.com/watch?v=yG1OZ69H_-o)
 ### 2. Articles
 - [ ] [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP)](https://gamesfromwithin.com/data-oriented-design)
 - [ ] [Используем черную магию для создания быстрого кольцевого буфера](https://habr.com/ru/company/otus/blog/557310/)
